@@ -16,3 +16,4 @@ Este conjunto de datos contiene la información para comprender el uso de gifthu
 4. aprender a identificar errores de sintaxis en gifthub
 
 ![gr_fico_de_pastel-2020-07-16_19-06-16](https://github.com/user-attachments/assets/a2f6d8e8-a2b1-4960-bc74-9ea0e2b9f348)
+![incoterms](https://github.com/user-attachments/assets/245f8679-a4ff-4861-9503-bda7423b9fa8)
